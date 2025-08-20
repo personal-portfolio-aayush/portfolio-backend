@@ -1,0 +1,8 @@
+*.generated.*
+coverage
+tsconfig.json
+tsconfig.build.json
+README.md
+nest-cli.json
+package.json
+pnpm-lock.json
